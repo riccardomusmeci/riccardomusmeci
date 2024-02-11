@@ -1,6 +1,6 @@
 ![Alt Text](https://giphy.com/gifs/scaler-official-monday-computer-laptop-scZPhLqaVOM1qG4lT9)
 
-[![Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fr_musmeci&style=flat-square&logo=twitter&label=r_musmeci&labelColor=blue&color=blue)
+![Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fr_musmeci&style=flat-square&logo=twitter&label=r_musmeci&labelColor=blue&color=blue)
 
 ### **About Me 🤷**
 
