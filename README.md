@@ -1,6 +1,7 @@
 ![Alt Text](https://giphy.com/gifs/scaler-official-monday-computer-laptop-scZPhLqaVOM1qG4lT9)
 
 [<img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/r_musmeci?style=flat-square&logo=twitter&logoColor=blue&label=r_musmeci&labelColor=blue&color=blue">](https://twitter.com/r_musmeci)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/brianruizy/](https://www.linkedin.com/in/riccardo-musmeci-08771490/))
 
 ### **About Me 🤷**
 
