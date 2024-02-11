@@ -6,11 +6,11 @@
 
 ### **About Me 🤷**
 
-- 🧑‍💻 senior computer vision vngineer @ [Enel](https://www.enel.com) ~~[NTT Data](https://it.nttdata.com)~~
+- 🧑‍💻 senior computer vision engineer (now AI engineer 👀) @ [Enel](https://www.enel.com) ~~[NTT Data](https://it.nttdata.com)~~
 - 🚀 currently learning/working/experimenting/developing on LLMs
-- 🎓 BSc & MSc Computer Engineering @ [unipa](https://www.unipa.it) - Research Assistant @ [UKY](https://www.uky.edu) 
+- 🎓 BSc & MSc Computer Engineering @ [unipa](https://www.unipa.it) - Research Assistant @ [UKY](https://www.uky.edu) - Visiting Scholar @ [MST](https://www.mst.edu)
 - 📧 Reach me at: riccardomusmeci92@gmail.com 
-- 🏡 Milan (🇮🇹) ~~Lexington, KY (🇺🇸)~~ ~~Palermo (🇮🇹)~~
+- 🏡 Milan (🇮🇹) ~~Lexington, KY (🇺🇸)~~ ~~Rolla, MO (🇺🇸)~~ ~~Palermo (🇮🇹)~~
 
 
 
