@@ -1,4 +1,4 @@
-![Hola](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 
 ![Hola](https://tenor.com/wGIz.gif)
 
